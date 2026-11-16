@@ -28,4 +28,3 @@
 ## Contact
 
 Created by **arkanquixote**
-- Discord & Instagram: `arkanquixote`
